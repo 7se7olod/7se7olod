@@ -14,6 +14,7 @@
 </div>
 <div align="center">
 <img src="https://komarev.com/ghpvc/?username=7se7olod&style=flat-square&color=blue" alt=""/>
+  <img src='https://www.codewars.com/users/7se7olod/badges/micro' alt=''/>
 </div>
 <div id="header" align="center">
      <h2>Hi there 👋</h2> 
